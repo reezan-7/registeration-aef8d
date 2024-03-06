@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283943969544",
+    "project_id": "registeration-aef8d",
+    "storage_bucket": "registeration-aef8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283943969544:android:f785fe63838787f29c42bd",
+        "android_client_info": {
+          "package_name": "com.example.registeration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqrv3ioZ318KJGiNqPeexDUHPkYuVZgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
